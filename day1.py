@@ -1,0 +1,1 @@
+print("Day 1 of my Python + GitHub journey ") 
